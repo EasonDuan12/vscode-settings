@@ -1,2 +1,2 @@
 # vscode-settings
-vscode setting for you
+vscode setting for fastlane new partner.
