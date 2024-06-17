@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        // file icon
+        "pkief.material-icon-theme",
+  
+        // plugins needed
+        "Shopify.theme-check-vscode",
+        "killalau.vscode-liquid-snippets",
+        "Syler.sass-indented",
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint",
+        "donjayamanne.githistory",
+        "GitHub.copilot",
+        "wix.vscode-import-cost"    
+    ]
+  }
