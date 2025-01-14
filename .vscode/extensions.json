@@ -11,7 +11,7 @@
         "dbaeumer.vscode-eslint",
         "stylelint.vscode-stylelint",
         "donjayamanne.githistory",
-        "GitHub.copilot",
-        "wix.vscode-import-cost"    
+        "wix.vscode-import-cost",
+        "sissel.shopify-liquid"    
     ]
   }
